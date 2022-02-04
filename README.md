@@ -23,5 +23,5 @@ Things you may want to cover:
 
 * ...
 
-Complet Ruby on Rails Developer
+First Test Repo on the Ruby on Rails Developer by Terry is COMPLETE
 
