@@ -26,5 +26,6 @@ Things you may want to cover:
 First Test Repo on the Ruby on Rails Developer by Terry is COMPLETE
 Created Home Page
 Created About Page
-Created Bio Page
+Created Bio Page and upload to GIT
+
 
